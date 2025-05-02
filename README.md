@@ -25,10 +25,27 @@ I'm an experienced IT professional with a strong passion for continuous learning
 </div>
 
 ---
-<img height="200em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-augustowsky" />
-<img height="200em" align="right" src="https://github-readme-stats.vercel.app/api?username=ivan-augustowsky&show_icons=true&theme=transparent" />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-augustowsky" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ivan-augustowsky&show_icons=true&theme=transparent" />
+</div>
 
 <!--
+<table style = "border: 0px solid;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-augustowsky" />      
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ivan-augustowsky&show_icons=true&theme=transparent" />    
+    </td>
+  </tr>
+
+
+</table>
+
+
 **ivan-augustowsky/ivan-augustowsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
