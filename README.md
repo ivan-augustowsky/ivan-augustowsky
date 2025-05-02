@@ -1,8 +1,9 @@
 <img src="1681664533513.jpg" width="1200px" align = "center">
 
 ---
-<img src="[Facebook](https://www.vecteezy.com/png/33955187-icon-social-media-facebook-youtube-instagram)" title="Facebook" alt="Facebook" width="50" height="50">
-<img src="[Facebook](https://www.vecteezy.com/png/33955193-icon-social-media-facebook-youtube-instagram)" title="Instagram" alt="Facebook" width="50" height="50">
+<img src="https://www.vecteezy.com/png/33955187-icon-social-media-facebook-youtube-instagram" title="Facebook" alt="Facebook" width="50" height="50">
+<img src="https://www.vecteezy.com/png/33955193-icon-social-media-facebook-youtube-instagram" title="Instagram" alt="Facebook" width="50" height="50">
+
 ---
 
 ## Hey there 👋
