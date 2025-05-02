@@ -1,11 +1,10 @@
 <img src="1681664533513.jpg" width="1200px" align = "center">
-<!--
----
-<img src="https://www.vecteezy.com/png/33955187-icon-social-media-facebook-youtube-instagram" title="Facebook" alt="Facebook" width="50" height="50">
-<img src="https://www.vecteezy.com/png/33955193-icon-social-media-facebook-youtube-instagram" title="Instagram" alt="Facebook" width="50" height="50">
 
----
--->
+<div>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+</div>
 
 ## Hey there 👋
 
