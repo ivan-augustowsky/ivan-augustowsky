@@ -6,8 +6,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </div>
 ---
+
 ## Hey there 👋
 I'm an experienced IT professional with a strong passion for continuous learning. Throughout my career, I've held diverse roles—including Programmer, Systems Analyst, Tech Lead, IT Coordinator, Product Owner, Scrum Master, and Systems Manager. Currently, I'm focused on deepening my technical expertise to stay hands-on and up to date with modern technologies.
+
 ---
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40">
