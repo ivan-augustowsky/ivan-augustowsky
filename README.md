@@ -27,8 +27,8 @@ I'm an experienced IT professional with a strong passion for continuous learning
 ---
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-augustowsky&show_icons=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ivan-augustowsky&show_icons=true&theme=transparent" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-augustowsky&show_icons=true&count_private=true" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ivan-augustowsky&show_icons=true&theme=transparent" />
 </div>
 
 <!--
