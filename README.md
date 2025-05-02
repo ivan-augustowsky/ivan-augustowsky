@@ -1,5 +1,7 @@
+<img src="1681664533513.jpg" width="700px" align = "center">
+
 ## Hey there 👋
-<img src="1681664533513.jpg">
+
 <!--
 **ivan-augustowsky/ivan-augustowsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
