@@ -1,5 +1,5 @@
 <img src="1681664533513.jpg" width="1200px" align = "center">
-<div>
+<div id="badges">
   <a href="https://www.facebook.com/profile.php?id=100065515358354">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge">
   </a>
@@ -24,6 +24,8 @@ I'm an experienced IT professional with a strong passion for continuous learning
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="40" height="40">
 </div>
 
+---
+<img height="200em" align="left" src="https://github-readme-stats.vercel.app/api?username=ivan-augustowsky&show_icons=true&theme=transparent" />
 
 <!--
 **ivan-augustowsky/ivan-augustowsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
