@@ -1,5 +1,10 @@
 <img src="1681664533513.jpg" width="1200px" align = "center">
 
+---
+<img src="[Facebook](https://www.vecteezy.com/png/33955187-icon-social-media-facebook-youtube-instagram)" title="Facebook" alt="Facebook" width="50" height="50">
+<img src="[Facebook](https://www.vecteezy.com/png/33955193-icon-social-media-facebook-youtube-instagram)" title="Instagram" alt="Facebook" width="50" height="50">
+---
+
 ## Hey there 👋
 
 I'm an experienced IT professional with a strong passion for continuous learning. Throughout my career, I've held diverse roles—including Programmer, Systems Analyst, Tech Lead, IT Coordinator, Product Owner, Scrum Master, and Systems Manager. Currently, I'm focused on deepening my technical expertise to stay hands-on and up to date with modern technologies.
