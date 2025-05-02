@@ -1,12 +1,11 @@
 <img src="1681664533513.jpg" width="1200px" align = "center">
-
 <div>
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </div>
----
 
+---
 ## Hey there 👋
 I'm an experienced IT professional with a strong passion for continuous learning. Throughout my career, I've held diverse roles—including Programmer, Systems Analyst, Tech Lead, IT Coordinator, Product Owner, Scrum Master, and Systems Manager. Currently, I'm focused on deepening my technical expertise to stay hands-on and up to date with modern technologies.
 
