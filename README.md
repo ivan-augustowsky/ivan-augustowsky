@@ -1,4 +1,4 @@
-<img src="1681664533513.jpg" width="700px" align = "center">
+<img src="1681664533513.jpg" width="1200px" align = "center">
 
 ## Hey there 👋
 
